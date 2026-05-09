@@ -18,7 +18,8 @@ ArthaBot is a React-based NLP web application that detects and explains **all 8 
 
 ---
 
-## Demo
+## Live Demo
+🔗 [https://arthabot-arpita-prasad.vercel.app](https://ambiguity-steel.vercel.app/)
 
 > Enter a Hindi or Hinglish sentence → get instant ambiguity analysis with color-coded type cards, severity badges, and all possible interpretations explained.
 
